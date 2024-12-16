@@ -1,6 +1,0 @@
-@Azure.Storage.Samples.API_HostAddress = http://localhost:5180
-
-GET {{Azure.Storage.Samples.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
