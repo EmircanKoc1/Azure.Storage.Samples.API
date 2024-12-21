@@ -1,9 +1,6 @@
-using Azure.Storage.Files.Shares;
-using Azure.Storage.Files.Shares.Models;
+
 using Azure.Storage.Samples.API.Options;
-using Microsoft.AspNetCore.Mvc;
 using Scalar.AspNetCore;
-using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
