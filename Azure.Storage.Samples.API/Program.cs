@@ -1,4 +1,3 @@
-
 using Azure.Storage.Samples.API.Options;
 using Scalar.AspNetCore;
 
@@ -26,3 +25,4 @@ app.UseHttpsRedirection();
 
 
 app.Run();
+
